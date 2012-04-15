@@ -6,3 +6,10 @@ Brief
     network http://www.VKontakte.ru.
 
     For more info please go to http://www.14likes.forknights.com.
+
+Installation
+    To install environment you need to create symbolic links twitter-bootstrap 
+    (pointin to Twitter Bootstrap (v2.0.2-0-g59503e7), 
+    http://twitter.github.com/bootstrap/) and image-gallery (pointing to Bootstrap 
+    Image Gallery (1c8e8d3), http://blueimp.github.com/Bootstrap-Image-Gallery/) in 
+    a folder with index.html.
