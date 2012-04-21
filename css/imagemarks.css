@@ -1,8 +1,11 @@
 @charset 'UTF-8';
-.approved {
-  background: url(images/approved.png);
+.mark_approved {
+  background: url(/images/approved.png);
 }
-.status {
+.mark_container {
+  position: relative;
+}
+.mark_status {
   position: absolute;
   right: 10px;
   top: 10px;
