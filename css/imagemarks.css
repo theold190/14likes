@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+.approved {
+  background: url(images/approved.png);
+}
+.status {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 32px;
+  height: 32px;
+  z-index:1;
+}
