@@ -2,6 +2,15 @@
 .mark_approved {
   background: url(/images/approved.png);
 }
+.mark_approved_autumn {
+  background: url(/images/approved_autumn.png);
+}
+.mark_approved_summer {
+  background: url(/images/approved_summer.png);
+}
+.mark_approved_spring {
+  background: url(/images/approved_spring.png);
+}
 .mark_container {
   position: relative;
 }
